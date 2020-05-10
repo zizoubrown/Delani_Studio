@@ -7,6 +7,13 @@ header{
 }
 #services{
     background-image: url('/resources/images/laptop.jpg');
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+}
+#contact{
+    background-image: url('/resources/images/engine.jpg');
+    height: 50vh;
     background-size: cover;
     background-position: center;
 }
