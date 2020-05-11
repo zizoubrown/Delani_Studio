@@ -3,7 +3,6 @@
 - Technologies Used
 - BDD
 - Livelink to the website
-- Support & Contact
 - Author
 - Licence
 
@@ -23,10 +22,6 @@ This website when a user inputs the email he/she will get a message and also get
 
 ## Livelink to the Website
 
-
-## Support & Contact
-- NO 0741421079
-- Email: mukhtarabdirahmanm@gmail
 
 ## Author
 
