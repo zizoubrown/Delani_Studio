@@ -90,3 +90,11 @@ $(document).ready(function(){
     })
 
 });
+
+var message = document.getElementById("message");
+      message.addEventListener("keyup", function(event) {
+        if (event.keyCode === 13) {
+          event.preventDefault();
+          document.getElementById("btn").click();
+        }
+});
