@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $('.icon').click(function(){
+        $('.hide').show();
+    });
+    $('.icon').click(function(){
+        $('.icon').hide();
+    });
+    $('.hide')(function(){
+        $('.icon').show();
+    });
+    $('.hide')(function(){
+        $('.hide').hide();
+    });
+});
